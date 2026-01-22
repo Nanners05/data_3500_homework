@@ -39,4 +39,14 @@ if num % 4 == 0:
 else:
     print(f"{num} is not a multiple of 4")
 
-if num_2 % 10 == 
+if num_2 % 10 != 0:
+    print(f"{num_2} is not a multiple of 10!")
+else:
+    print(f"{num_2} is a multiple of 10")
+
+
+# 2.8
+x = range(0,6)
+
+for i in x:
+    print(f"{i:<5}{i**2:<5}{i**3:<5}")
