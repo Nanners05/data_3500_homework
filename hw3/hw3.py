@@ -7,11 +7,14 @@ for i in range(2):
 
 
 #3.9
-num = input("Please enter a number between 7 and 10 digits >")
+num = int(input("Please enter a number between 7 and 10 digits >"))
 
-for i in num:
+while num <= 1000000 or num >= 9999999999:
+    print("Not a number between 7 and 10 digits")
+    num = int(input("Please enter a number between 7 and 10 digits >"))
+
+for i in str(num):
     print(i)
-
 
 # 3.11
 list = []
@@ -45,3 +48,13 @@ else:
     print("Not a Palindrome")
 
 # 3.14
+sum = 0
+denominator = 1
+for i in range(1, 3000):
+    if i % 2 == 0:
+        sum -= 4/denominator
+    else:
+        sum += 4/denominator
+    denominator += 2
+
+print(sum)
