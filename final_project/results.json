@@ -1,6 +1,5 @@
 {
     "bitcoin_Prices": [
-        94773.11,
         94644.07,
         93809.34,
         95030.61,
@@ -365,14 +364,14 @@
         78194.78,
         78260.62,
         77444.8,
-        77584.68
+        77619.14,
+        77742.12
     ],
     "bitcoin_MR_Profit": -21233.040000000037,
     "bitcoin_MR_Returns": -20.079394455097948,
-    "bitcoin_SMA_Profit": -7602.060000000012,
-    "bitcoin_SMA_Returns": -7.999590868668539,
+    "bitcoin_SMA_Profit": -841.0,
+    "bitcoin_SMA_Returns": -0.8849780086647872,
     "ethereum_Prices": [
-        1788.8,
         1821.27,
         1793.69,
         1799.5,
@@ -737,14 +736,14 @@
         2377.93,
         2330.83,
         2315.51,
-        2318.65
+        2319.15,
+        2318.17
     ],
     "ethereum_MR_Profit": 138.72000000000116,
     "ethereum_MR_Returns": 5.6047352578736245,
-    "ethereum_SMA_Profit": 528.48,
-    "ethereum_SMA_Returns": 29.01711443113871,
+    "ethereum_SMA_Profit": 674.8299999999999,
+    "ethereum_SMA_Returns": 36.69848002827854,
     "litecoin_Prices": [
-        86.4,
         87.04,
         85.55,
         85.81,
@@ -1109,14 +1108,14 @@
         55.59,
         56.23,
         56.52,
-        56.03
+        56.04,
+        55.9
     ],
-    "litecoin_MR_Profit": 48.14000000000001,
-    "litecoin_MR_Returns": 57.590620887666,
-    "litecoin_SMA_Profit": -6.15000000000002,
-    "litecoin_SMA_Returns": -7.065716911764729,
+    "litecoin_MR_Profit": 42.67000000000001,
+    "litecoin_MR_Returns": 51.15080316470871,
+    "litecoin_SMA_Profit": -4.660000000000011,
+    "litecoin_SMA_Returns": -5.232427576914452,
     "ripple_Prices": [
-        2.19,
         2.19,
         2.26,
         2.3,
@@ -1481,14 +1480,14 @@
         1.43,
         1.44,
         1.43,
+        1.42,
         1.42
     ],
-    "ripple_MR_Profit": -0.3300000000000003,
-    "ripple_MR_Returns": -15.068493150684944,
-    "ripple_SMA_Profit": -0.14999999999999902,
-    "ripple_SMA_Returns": -6.637168141592878,
+    "ripple_MR_Profit": -0.3000000000000005,
+    "ripple_MR_Returns": -13.888888888888912,
+    "ripple_SMA_Profit": -0.049999999999998934,
+    "ripple_SMA_Returns": -2.2123893805309267,
     "eos_Prices": [
-        0.68,
         0.68,
         0.67,
         0.69,
@@ -1853,14 +1852,14 @@
         0.09,
         0.09,
         0.09,
+        0.09,
         0.09
     ],
     "eos_MR_Profit": -0.2799999999999999,
     "eos_MR_Returns": -40.579710144927525,
-    "eos_SMA_Profit": -0.11999999999999988,
-    "eos_SMA_Returns": -17.391304347826072,
+    "eos_SMA_Profit": -0.10999999999999988,
+    "eos_SMA_Returns": -15.942028985507228,
     "bitcoin-cash_Prices": [
-        373.6,
         356.16,
         345.96,
         364.17,
@@ -2225,13 +2224,14 @@
         461.02,
         460.55,
         456.33,
-        453.93
+        453.07,
+        453.37
     ],
     "bitcoin-cash_MR_Profit": 380.12000000000035,
     "bitcoin-cash_MR_Returns": 106.7273135669363,
-    "bitcoin-cash_SMA_Profit": -226.43999999999994,
-    "bitcoin-cash_SMA_Returns": -62.17975121509184,
+    "bitcoin-cash_SMA_Profit": -213.9799999999999,
+    "bitcoin-cash_SMA_Returns": -58.75827223549438,
     "Best_Coin": "ethereum",
     "Best_Strategy": "SMA",
-    "Best_Profit": 528.48
+    "Best_Profit": 674.8299999999999
 }

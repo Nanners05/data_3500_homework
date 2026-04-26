@@ -121,7 +121,7 @@ def simpleMovingAverageStrategy(prices, coin):
     return total_profit, percent_return
 
 def save_results(results):
-    with open("/workspaces/data_3500_homework/FinalProject/results.json", "w") as f:
+    with open("/workspaces/data_3500_homework/final_project/results.json", "w") as f:
         json.dump(results, f, indent=4)
 
 results = {}
